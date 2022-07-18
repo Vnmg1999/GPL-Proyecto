@@ -9,9 +9,6 @@ Proyecto en Android Studio con Kotlin, APIRest y Arduino para monitoreo de datos
 Developers:
 
 •	Sara Cáceres
-
 •	Varinia Marcillo
-
 •	Maria Jose Molina
-
 •	Yamileth Borbor
